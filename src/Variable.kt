@@ -1,3 +1,5 @@
+var x = 5; // 전역 변수 -> Java의 static 변수처럼 동작함
+
 fun main() {
 
     // 변수 선언
