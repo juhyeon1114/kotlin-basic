@@ -1,3 +1,5 @@
+package basic
+
 fun main() {
 
     // 범위 연산자 .. 를 사용한 루프문

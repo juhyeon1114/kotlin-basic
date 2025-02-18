@@ -1,3 +1,5 @@
+package basic
+
 fun main() {
 
     var a: String? = null // nullable한 변수엔 ?를 붙인다.
